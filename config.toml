@@ -1,0 +1,99 @@
+baseURL = "/"
+languageCode = "en-us"
+title = "stefanos(io)"
+theme = "ezhil"
+
+copyright = "© 2021"
+
+# Enable syntax highlighting.
+pygmentsstyle = "solarized-dark"
+pygmentscodefences = true
+pygmentscodefencesguesssyntax = true
+
+
+
+# Number of posts to show in recent posts list (Optional). Defaults to 10.
+paginate = 7
+
+# Number of characters to show in summary.
+summaryLength = 20
+
+[params]
+    # Blog subtitle which appears below blog title. Supports markdown.
+    subtitle = "My thoughts on tech, movies/tv, life, and food."
+
+    # Content types which are included in home page recent posts list.
+    mainSections = ["posts"]
+
+    # Content types which are excludes Disqus comments.
+    disableDisqusTypes = ["posts"]
+
+    # If social media links are enabled then enable this to fetch icons from CDN instead of hosted on your site.
+    featherIconsCDN = true
+
+    # Specify favicon (icons/i.png maps to static/icons/i.png). No favicon if not defined.
+    favicon = "icons/favicon.ico"
+
+    # Switch to dark mode or auto detect mode from OS (Optional).
+    # "dark" will set mode to dark and "auto" will switch to dark mode if OS is in dark mode.
+    mode = "dark" # "dark" or "auto"
+
+    # Custom CSS added to default styles. Files added to `static` folder is copied as it is to
+    # root by Hugo. For example if you have custom CSS file under `static/css/custom.css` then
+    # you can specify custom css path as `css/custom.css`.
+    customCSS = "css/custom.css"
+    # Custom CSS added to dark mode style.
+    customDarkCSS = "css/custom-dark.css"
+
+
+
+# Main menu which appears below site header.
+[[menu.main]]
+name = "Home"
+url = "/"
+weight = 1
+
+[[menu.main]]
+name = "All posts"
+url = "/posts"
+weight = 2
+
+[[menu.main]]
+name = "About"
+url = "/about"
+weight = 3
+
+[[menu.main]]
+name = "Links"
+url = "/links"
+weight = 4
+
+[[menu.main]]
+name = "Tags"
+url = "/tags"
+weight = 5
+
+# Social media links which shows up on site header.
+# Uses feather icons for icons. You can [search icon names from here](https://feathericons.com/).
+
+[[params.social]]
+name = "Stats"
+icon = "server"
+url = "https://cf-workers-status-page-production.stefano-amanuel.workers.dev/"
+
+[[params.social]]
+name = "Github"
+icon = "github"
+url = "https://github.com/ipkstef"
+
+[[params.social]]
+name = "Rss"
+icon = "rss"
+url = "/index.xml"
+
+
+[taxonomies]
+tag = "tags"
+
+
+

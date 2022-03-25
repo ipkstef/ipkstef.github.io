@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>stefanos(io)</title>
+    <link>/</link>
+    <description>Recent content on stefanos(io)</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© 2021</copyright>
+    <lastBuildDate>Sun, 24 Oct 2021 03:07:47 -0400</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How I Autobuild This Site</title>
+      <link>/posts/how-i-autobuild-this-site/</link>
+      <pubDate>Sun, 24 Oct 2021 03:07:47 -0400</pubDate>
+      
+      <guid>/posts/how-i-autobuild-this-site/</guid>
+      <description>Overview How I build this site is actually a series of linked together actions that result in a static site being displayed here!</description>
+    </item>
+    
+    <item>
+      <title>Typography</title>
+      <link>/posts/typography/</link>
+      <pubDate>Sun, 24 Oct 2021 02:07:02 -0400</pubDate>
+      
+      <guid>/posts/typography/</guid>
+      <description>Lid est laborum et dolorum fuga. Et harum quidem rerum facilis est et expeditasi distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihilse impedit quo minus id quod amets untra dolor amet sad.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/about/</guid>
+      <description>This site is a portfolio of my CI/CD skill-set and my general programming ability.
+More to come.</description>
+    </item>
+    
+    <item>
+      <title>Links</title>
+      <link>/links/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/links/</guid>
+      <description>Socials Feel free to send me a gpg encrypted message Public-Key
+Email me @ stefano.amanuel@protonmail.com</description>
+    </item>
+    
+    <item>
+      <title>Privacy Policy</title>
+      <link>/privacy-policy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/privacy-policy/</guid>
+      <description>Statement The stefanos.io website is not logging any data, is not using any scripts/applications for tracking its visitors and does not place any cookies on your computer.</description>
+    </item>
+    
+  </channel>
+</rss>

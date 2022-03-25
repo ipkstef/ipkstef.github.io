@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>devops on stefanos(io)</title>
+    <link>/tags/devops/</link>
+    <description>Recent content in devops on stefanos(io)</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© 2021</copyright>
+    <lastBuildDate>Sun, 24 Oct 2021 03:07:47 -0400</lastBuildDate><atom:link href="/tags/devops/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How I Autobuild This Site</title>
+      <link>/posts/how-i-autobuild-this-site/</link>
+      <pubDate>Sun, 24 Oct 2021 03:07:47 -0400</pubDate>
+      
+      <guid>/posts/how-i-autobuild-this-site/</guid>
+      <description>Overview How I build this site is actually a series of linked together actions that result in a static site being displayed here!</description>
+    </item>
+    
+  </channel>
+</rss>
