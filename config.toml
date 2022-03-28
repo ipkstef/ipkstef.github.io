@@ -1,10 +1,10 @@
 publishDir ="./docs"
-baseURL = "ipkstef.github.io"
+baseURL = "/"
 languageCode = "en-us"
 title = "stefanos(io)"
 theme = "ezhil"
 
-copyright = "© 2021"
+copyright = "© 2022 stefanos.io"
 
 # Enable syntax highlighting.
 pygmentsstyle = "solarized-dark"
