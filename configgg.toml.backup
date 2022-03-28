@@ -1,4 +1,0 @@
-baseURL = 'http://stefanos.io/'
-languageCode = 'en-us'
-title = 'stefanos.io'
-theme = "ananke"
