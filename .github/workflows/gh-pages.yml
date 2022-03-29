@@ -31,8 +31,9 @@ jobs:
       #     github_token: ${{ secrets.GITHUB_TOKEN }}
       #     publish_dir: ./public
   copy:
-    name: Copy my folder
+    name: Publish to live
     runs-on: ubuntu-latest
+    needs: build
     steps:
       - uses: actions/checkout@v2
       - name: copy
